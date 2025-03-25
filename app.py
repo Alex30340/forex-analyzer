@@ -7,7 +7,7 @@ import ta
 
 pairs = {
     'BTC/USD': 'BTC-USD',
-    'XAU/USD': ' 'GC=F',
+    'XAU/USD': 'GC=F',
     'GBP/JPY': 'GBPJPY=X',
     'EUR/NZD': 'EURNZD=X',
     'EUR/CAD': 'EURCAD=X'
